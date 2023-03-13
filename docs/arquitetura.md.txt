@@ -1,0 +1,3 @@
+# Arquitetura
+
+* o módulo **jogovelha.py** que fará o gerenciamento das casas.

@@ -1,0 +1,3 @@
+# Requisitos.
+
+gerar estrutura pra jogo da velha
